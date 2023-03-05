@@ -1,0 +1,11 @@
+public class TestFile {
+
+	public static void main(String[] args) {
+		
+		int l=10,b=25,area;
+		area =l*b;
+		System.out.println(area);
+		
+	}
+
+}
